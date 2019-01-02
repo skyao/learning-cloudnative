@@ -84,11 +84,32 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 2100
 
 [[menu.main]]
-	name   = "演讲"
-	identifier = "data-slides"
+	name   = "演讲(2018)"
+	identifier = "data-slides-2018"
 	parent = "data"
-	url    = "/data/slides/"
-	weight = 2200
+	url    = "/data/slides2018/"
+	weight = 2240
+
+[[menu.main]]
+	name   = "演讲(2017)"
+	identifier = "data-slides-2017"
+	parent = "data"
+	url    = "/data/slides2017/"
+	weight = 2250
+
+[[menu.main]]
+	name   = "演讲(2016)"
+	identifier = "data-slides-2016"
+	parent = "data"
+	url    = "/data/slides2016/"
+	weight = 2260
+
+[[menu.main]]
+	name   = "演讲(2015及更早)"
+	identifier = "data-slides-2015"
+	parent = "data"
+	url    = "/data/slides2015/"
+	weight = 2280
 
 [blackfriday]
 	smartypants	= true

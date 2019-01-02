@@ -2,8 +2,8 @@
 title: "Netflix: Netflix Development Patterns"
 menu:
   main:
-    parent: "data-slides"
-weight: 2210
+    parent: "data-slides-2015"
+weight: 2288
 description : "Netflix Development Patterns for Rapid Iteration, Scale, Performance, & Availability"
 ---
 

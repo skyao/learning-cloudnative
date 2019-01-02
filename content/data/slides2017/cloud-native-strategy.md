@@ -3,8 +3,8 @@ tripled.jpgdate: 2018-12-28T09:00:00+08:00
 title: "CNCF: Cloud Native Strategy"
 menu:
   main:
-    parent: "data-slides"
-weight: 2251
+    parent: "data-slides-2017"
+weight: 2253
 description : "Cloud Native Strategy"
 ---
 
@@ -42,9 +42,9 @@ description : "Cloud Native Strategy"
 - Auto-Scaling.
 - Load Balancing.
 
-备注：这一段每太看懂要说啥。
+备注：这一段没太看懂要说啥。
 
-## 经验教训
+### 经验教训
 
 - Lesson #1 - Don’t Steal Ideas But Rather：不要窃取想法，而是
 - Lesson #2 - Steal The Processes That Created Those Ideas：而是窃取创造这些想法的流程

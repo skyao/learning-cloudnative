@@ -3,8 +3,8 @@ date: 2018-12-28T09:00:00+08:00
 title: "CNCF: What is Cloud Native"
 menu:
   main:
-    parent: "data-slides"
-weight: 2250
+    parent: "data-slides-2017"
+weight: 2252
 description : "What is Cloud Native and why should I care"
 ---
 

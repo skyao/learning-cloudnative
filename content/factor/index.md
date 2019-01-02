@@ -8,3 +8,5 @@ description : "云原生的12因素"
 
 
 云原生的12因素
+
+![](images/cloud-native-12-factor.png)
