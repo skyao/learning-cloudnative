@@ -1,11 +1,11 @@
 ---
 date: 2019-01-03T10:00:00+08:00
-title: "云计算的演进历史"
+title: "云计算的历史"
 menu:
   main:
     parent: "introduction"
 weight: 101
-description : "云计算的演进历史"
+description : "云计算二十来年来的演进历史"
 ---
 
 在介绍云原生之前，先看看过去20年间，云计算领域的发展演进历程。
@@ -51,7 +51,7 @@ description : "云计算的演进历史"
 
 2015年，Cloud Native 出现，完全基于开源软件技术栈，Cloud Native 的重要理念是：以微服务的方式部署应用，每个应用都打包为自己的容器并动态编排这些容器以优化资源利用。
 
-在2017和2018年，kubernetes 在和Mesos和Swarm的史诗大战中获胜，彻底击败对手，赢得容器编排市场的统治地位。以kubernetes为核心的CNCF Cloud Native生态系统也得以迅猛发展，云原生成为云计算市场的新一代。
+在2017和2018年，kubernetes 在和Mesos和Swarm的史诗大战中获胜，彻底击败对手，赢得容器编排市场的统治地位。以kubernetes为核心的CNCF Cloud Native生态系统也得以迅猛发展，云原生成为云计算市场的技术新热点。
 
 ## 演进总结
 

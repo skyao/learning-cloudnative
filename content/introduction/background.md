@@ -93,11 +93,19 @@ Pivotal公司的Matt Stine对此描述如下：
 
 ## 总结
 
-前面我们谈到了软件对各行各业的渗透和对世界的改变，以及移动互联网时代巨大的用户基数下快速变更和不断创新的需求对软件开发方式带来的巨大推动力，结合上一篇文章描述的过去二十年间云计算的发展演进和软件上云的趋势，我们可以清晰的看到这样一个波澜壮阔的时代大潮：
+前面我们谈到了软件对各行各业的渗透和对世界的改变，以及移动互联网时代巨大的用户基数下快速变更和不断创新的需求对软件开发方式带来的巨大推动力，结合上一篇文章描述的过去二十年间云计算的发展演进和软件上云的趋势，我们可以清晰的看到这样一个波澜壮阔的技术浪潮：
 
-- 软件正在改变世界，移动互联网让这个变革影响到每一个人
+- 软件正在改变世界
+- 移动互联网让这个变革影响到每一个人
 - 传统软件开发方式受到巨大挑战
 - 云计算普及，软件上云成为趋势
+- 云的形态持续在演进
+
+援引InfoQ主编徐川老师对云计算的总结：
+
+- **云计算的技术逐渐发展成为它本来该有的模样；**
+- **以及与这样的云所匹配的软件架构；**
+- **以及与这样的架构所匹配的开发流程与方法论。**
 
 云原生由此诞生！
 
@@ -107,6 +115,7 @@ Pivotal公司的Matt Stine对此描述如下：
 - [Why Software Is Eating The World的读后感](https://www.gss.com.tw/index.php/focus/eis/102-eis67/936-eis67-01)：繁体中文版本
 - [A Review of ‘Why Software is Eating The World’: How have the companies fared?](https://www.bigfootcap.com/a-review-of-why-software-is-eating-the-world-how-have-the-companies-fared/): 在2018年，有人撰文分析了在上文中提到的几家主要软件公司的增长情况。
 - [Netflix Development Patterns for Scale, Performance & Availability](https://www.slideshare.net/AmazonWebServices/dmg206) ，来自Netflix，2013年
+- [2018 年终盘点：我们处在一个什么样的技术浪潮当中？](https://www.infoq.cn/article/H1VZ6dH1DjH5juGO3*pD)：来自InfoQ主编徐川老师
 
 
 

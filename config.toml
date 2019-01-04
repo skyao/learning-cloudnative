@@ -65,16 +65,107 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 100
 
 [[menu.main]]
-	name   = "factor"
+	name   = "云原生的理念"
+	identifier = "introduction-idea"
+	parent = "introduction"
+	url    = "/introduction/idea/"
+	weight = 120
+
+[[menu.main]]
+	name   = "12因素应用"
 	identifier = "factor"
 	url    = "/factor/"
 	weight = 200
 
 [[menu.main]]
-	name   = "资料"
+	name   = "DevOps"
+	identifier = "devops"
+	url    = "/devops/"
+	weight = 300
+
+[[menu.main]]
+	name   = "持续发布"
+	identifier = "cd"
+	url    = "/cd/"
+	weight = 400
+
+[[menu.main]]
+	name   = "声明式设计"
+	identifier = "declarative"
+	url    = "/declarative/"
+	weight = 500
+
+[[menu.main]]
+	name   = "不可变基础设施"
+	identifier = "infrastructure"
+	url    = "/infrastructure/"
+	weight = 600
+
+[[menu.main]]
+	name   = "容器"
+	identifier = "cd"
+	url    = "/container/"
+	weight = 700
+
+[[menu.main]]
+	name   = "微服务"
+	identifier = "microservice"
+	url    = "/microservice/"
+	weight = 800
+
+[[menu.main]]
+	name   = "服务网格"
+	identifier = "servicemesh"
+	url    = "/servicemesh/"
+	weight = 900
+
+[[menu.main]]
+	name   = "参考资料"
 	identifier = "data"
 	url    = "/data/"
 	weight = 2000
+
+[[menu.main]]
+	name   = "文章(2019)"
+	identifier = "data-article-2019"
+	parent = "data"
+	url    = "/data/article2019/"
+	weight = 2010
+
+[[menu.main]]
+	name   = "文章(2018)"
+	identifier = "data-article-2018"
+	parent = "data"
+	url    = "/data/article2018/"
+	weight = 2030
+
+[[menu.main]]
+	name   = "文章(2017)"
+	identifier = "data-article-2017"
+	parent = "data"
+	url    = "/data/article2017/"
+	weight = 2050
+
+[[menu.main]]
+	name   = "文章(2016)"
+	identifier = "data-article-2016"
+	parent = "data"
+	url    = "/data/article2016/"
+	weight = 2070
+
+[[menu.main]]
+	name   = "文章(2015及更早)"
+	identifier = "data-article-2015"
+	parent = "data"
+	url    = "/data/article2015/"
+	weight = 2090
+
+[[menu.main]]
+	name   = "文章(2017)"
+	identifier = "data-article-2018"
+	parent = "data"
+	url    = "/data/article2018/"
+	weight = 2010
 
 [[menu.main]]
 	name   = "书籍"

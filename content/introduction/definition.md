@@ -59,9 +59,7 @@ Pivotal 是Cloud Native/云原生应用的提出者，并推出了Pivotal Cloud 
 
 ## 云原生定义之外
 
-从上面可以看到，云原生的内容和具体形式随着时间的推移一直在变化，即便是CNCF最新推出的云原生定义也非常明确的标注为v1.0，相信未来我们很有机会看到v1.1、v2版本。
-
-因此，云原生的定义是什么并不重要，关键还是云原生定义后面的理念、文化、技术、工具、组织结构和行为方式。
+从上面可以看到，云原生的内容和具体形式随着时间的推移一直在变化，即便是CNCF最新推出的云原生定义也非常明确的标注为v1.0，相信未来我们很有机会看到v1.1、v2版本。而且云原生这个词汇最近被过度使用，混有各种营销色彩，容易发生偏离。因此，云原生的定义是什么并不重要，关键还是云原生定义后面的理念、文化、技术、工具、组织结构和行为方式。
 
 Joe Beda，Heptio 的CTO，指出：
 
@@ -78,6 +76,8 @@ Christian Posta 指出：
 > "Cloud native" is an adjective that describes the applications, architectures, platforms/infrastructure, and processes, that together make it *economical* to work in a way that allows us to improve our ability to quickly respond to change and reduce unpredictability. This includes things like services architectures, self-service infrastructure, automation, continuous integration/delivery pipelines, observability tools, freedom/responsibility to experiment, teams held to outcomes not output, etc. 
 >
 > “云原生”是一个形容词，用于描述应用，结构，平台/基础设施和流程，这些共同促使我们以比较经济的工作方式来提高能力，实现快速响应变化和减少不可预测性。包括服务架构，自助服务基础设施，自动化，持续集成/交付管道，可观察性工具，实验的自由/责任，坚持结果而不是产出的团队等。 
+
+在下一节，我们将深入分解云原生的理念和诉求，来看看云原生是通过什么方式来实现目标。
 
 ### 参考资料
 
