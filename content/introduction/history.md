@@ -24,7 +24,7 @@ description : "云计算二十来年来的演进历史"
 
 在2006年，Amazon Web Service （也就是大家熟悉的AWS）通过提供 Elastic Compute Cloud （同样是大家熟悉的EC2）创立了 IaaS （Infrastructure-as-a-Service）市场。通过按时计费的方式租借服务器，将资本支出（Capex）转变为运营支出（Opex），这是云计算（Cloud Computer）的真正开始。此时构建块依然是虚拟机，称为Amazon Machine Image(AMI)。
 
-背景介绍，**Capex Vs. Opex**：
+术语介绍，**Capex Vs. Opex**：
 
 - Capex = capital expenditure / 资本支出
 - Opex =  operational expenditure / 运营支出
@@ -45,7 +45,7 @@ description : "云计算二十来年来的演进历史"
 
 ![](images/history7.png)
 
-2013年，Docker组合LXC，Union File System和cgroups等Linux技术创建容器化标准，docker风靡一时，container逐步替代VM，云计算进入容器时代。容器技术应该是过去十年对软件开发行业改变最大的技术。容器开始了隔离，重用和不可变性的思潮，尤其是不可变性。
+2013年，Docker组合LXC，Union File System和cgroups等Linux技术创建容器化标准，docker风靡一时，container逐步替代VM，云计算进入容器时代。容器技术应该是过去十年对软件开发行业改变最大的技术。容器技术极大的推动了隔离，重用和不可变性的设计思潮，尤其是不可变性。
 
 ![](images/history8.png)
 
