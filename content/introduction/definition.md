@@ -68,10 +68,16 @@ Joe Beda，Heptio 的CTO，指出：
 > There is no hard and fast definition for what Cloud Native means. In fact there are other overlapping terms and ideologies. At its root, Cloud Native is structuring teams, culture and technology to utilize automation and architectures to manage complexity and unlock velocity. 
 >
 > Cloud Native并没有硬性和牢靠的定义。实际上，还有其他重叠的术语和意识形态。从根本上说，**Cloud Native正在构建团队，文化和技术，以利用自动化和架构来管理复杂性和解锁速度**。
-> 
+>
 > We are still at the beginning of this journey.
 >
 > 我们还处在这个旅程的开始阶段。
+
+Christian Posta 指出：
+
+> "Cloud native" is an adjective that describes the applications, architectures, platforms/infrastructure, and processes, that together make it *economical* to work in a way that allows us to improve our ability to quickly respond to change and reduce unpredictability. This includes things like services architectures, self-service infrastructure, automation, continuous integration/delivery pipelines, observability tools, freedom/responsibility to experiment, teams held to outcomes not output, etc. 
+>
+> “云原生”是一个形容词，用于描述应用，结构，平台/基础设施和流程，这些共同促使我们以比较经济的工作方式来提高能力，实现快速响应变化和减少不可预测性。包括服务架构，自助服务基础设施，自动化，持续集成/交付管道，可观察性工具，实验的自由/责任，坚持结果而不是产出的团队等。 
 
 ### 参考资料
 

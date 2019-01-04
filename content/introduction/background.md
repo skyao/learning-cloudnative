@@ -31,13 +31,13 @@ Mark Andreessen是风险投资公司Andreessen-Horowitz的联合创始人和合�
 >
 > 十年前，当我在创办的Netscape公司时，大概5000千人使用了宽带互联网，而现在有超过20亿人使用宽带互联网。在接下来的10年里，我预计全球至少有50亿人拥有智能手机，每个人每天都可以随时随地使用这种手机充分利用互联网。
 >
-> 在后端，软件编程工具和基于互联网的服务可以轻松地在许多行业中推出新的全球软件驱动的初创企业 - 无需投资新的基础设施和培训新员工。2000年，当我的合伙人Ben Horowitz担任第一家云计算公司Loudcloud的首席执行官时，运营基本互联网应用程序的客户每月的成本约为15万美元。今天在亚马逊云中运行相同的应用程序每月花费大约1500美元。
+> 在后端，软件编程工具和基于互联网的服务可以轻松地在许多行业中推出新的全球软件驱动的初创企业 - 无需投资新的基础设施和培训新员工。2000年，当我的合伙人Ben Horowitz担任第一家云计算公司Loudcloud的首席执行官时，运营基本互联网应用程序每月的成本约为15万美元。今天在亚马逊云中运行相同的应用程序每月花费大约1500美元。
 
 文中列出了被重塑的产业，具体有 : 最大的书店 Amazon、最多人订阅的Video service Netflix、最大的音乐公司iTune、 Spotify and Pandora等、成长最快的娱乐领域 videogame、最好的电影制片厂 Pixar、最大的行销平台 : Google、Groupon、 Facebook等、成长最快的电信公司 : Skype 、成长最快招聘公司 LinkedIn。
 
 文章发表于2011年，在8年后的2019年再来看，感触更加深刻。
 
->  补充：有兴趣的同学可以看一下这个文章： [A Review of ‘Why Software is Eating The World’: How have the companies fared?](https://www.bigfootcap.com/a-review-of-why-software-is-eating-the-world-how-have-the-companies-fared/): 这是在2018年，有人撰文分析了在上文中提到的几家主要软件公司的发展情况：facebook/Apple/Amazon/Netflix/Google。
+>  补充：有兴趣的同学可以看一下这个文章： [A Review of ‘Why Software is Eating The World’: How have the companies fared?](https://www.bigfootcap.com/a-review-of-why-software-is-eating-the-world-how-have-the-companies-fared/): 这是在2018年，有人撰文分析了在上文中提到的几家主要软件公司的发展情况：Facebook/Apple/Amazon/Netflix/Google。
 
 ## 移动互联网
 
@@ -71,11 +71,35 @@ Mark Andreessen是风险投资公司Andreessen-Horowitz的联合创始人和合�
 
 这样的背景下，对软件开发的有了更高的要求，软件开发的方式也不得不跟随时代而变化：首当其冲的就是如何解决规模越来越大同时变更越来越快的难题。
 
-## 云计算的发展
+Pivotal公司的Matt Stine对此描述如下：
 
-TODO
+> We’re trying to bring a perceived conflict into balance: software-driven business agility vs. software system resiliency. We want to move fast and yet not break things. In order to do this, we're going to change how we build software, not necessarily where we build software. 
+>
+> 我们正努力平衡感知到的冲突：软件驱动的业务敏捷性 vs. 软件系统的弹性。我们希望快速前行而不破坏事物。为了做到这一点，我们将改变我们构建软件的方式，而不是在哪里构建软件。
 
-将软件迁移到云上是一种自然演化，使用了云原生应用架构是这些公司能够如此具有破坏性的核心原因。通过云，任何能够按需、自助弹性提供和释放计算、网络和存储资源的计算环境。云的定义包括公有云(例如 Amazon Web Services、Google Cloud和Microsoft Azure)和私有云(例如 VMware vSphere和 OpenStack)。
+## 软件上云的趋势
+
+将软件迁移到云上是应对这一挑战的自然演化方式，在过去二十年，从物理机到虚拟机到容器，从IaaS诞生到PaaS、CaaS、SaaS、FaaS一路演进，应用的构建和部署变的越来越轻、越来越快，而底层基础设施和平台则越来越强大，以不同形态的云对上层应用提供强力支撑。
+
+关于云的定义，Matt Stine表示：
+
+> Obviously, we need a place to do this: "cloud." I define cloud as any computing environment in which computing, networking, and storage resources can be provisioned and released elastically in an on-demand, self-service manner. 
+>
+> 显然，我们需要一个地方来做到这一点：“云”。我将云定义为可以按需，自助服务方式弹性配置和发布计算，网络和存储资源的任何计算环境。
+
+2006年AWS通过提供EC2服务开创了IaaS市场。通过按时计费的方式租借服务器，客户不承担资本支出，仅在使用服务时付费。将资本支出（Capex）转变为运营支出（Opex），这是云计算时代的真正开始，而之后PaaS，SaaS等的演进只是超云这个方向一步一步继续前行：
+
+![](images/iaas-paas-saas-comparison.jpg)
+
+## 总结
+
+前面我们谈到了软件对各行各业的渗透和对世界的改变，以及移动互联网时代巨大的用户基数下快速变更和不断创新的需求对软件开发方式带来的巨大推动力，结合上一篇文章描述的过去二十年间云计算的发展演进和软件上云的趋势，我们可以清晰的看到这样一个波澜壮阔的时代大潮：
+
+- 软件正在改变世界，移动互联网让这个变革影响到每一个人
+- 传统软件开发方式受到巨大挑战
+- 云计算普及，软件上云成为趋势
+
+云原生由此诞生！
 
 ### 参考资料
 

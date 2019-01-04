@@ -10,7 +10,7 @@ description : "云计算的演进历史"
 
 在介绍云原生之前，先看看过去20年间，云计算领域的发展演进历程。
 
-### 云计算的演进历史
+## 二十年演进历程
 
 ![](images/history1.png)
 
@@ -53,7 +53,7 @@ description : "云计算的演进历史"
 
 在2017和2018年，kubernetes 在和Mesos和Swarm的史诗大战中获胜，彻底击败对手，赢得容器编排市场的统治地位。以kubernetes为核心的CNCF Cloud Native生态系统也得以迅猛发展，云原生成为云计算市场的新一代。
 
-### 演进历史总结
+## 演进总结
 
 从上面演进历史，可以发现以下规律：
 
@@ -67,9 +67,14 @@ description : "云计算的演进历史"
 
 - 技术提供者：从闭源到开源，从单一供应商到跨越多个供应商
 
+下图形象的概述了这二十年云计算的过程：从传统预制IT、托管到云，以及云的不同形态如IaaS、PaaS、SaaS等。
+
+![](images/xaas.png)
+
 ### 参考资料
 
-- 本节内容的图片摘自CNCF的介绍资料 [Cloud Native and Container Technology Landscape](https://events.static.linuxfound.org/sites/events/files/slides/(OSF_Mr.%20Chris%20Aniszczyk)CNCF%20(OS%20Forum%20Japan%202016).pdf)
+- CNCF的介绍资料 [Cloud Native and Container Technology Landscape](https://events.static.linuxfound.org/sites/events/files/slides/(OSF_Mr.%20Chris%20Aniszczyk)CNCF%20(OS%20Forum%20Japan%202016).pdf)
+- [What is XaaS? IaaS vs SaaS vs PaaS: what’s the difference](https://www.ispsystem.com/news/xaas)：对XaaS的概括介绍
 
 
 
