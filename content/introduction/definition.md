@@ -39,6 +39,10 @@ Pivotal 是Cloud Native/云原生应用的提出者，并推出了Pivotal Cloud 
 - 面向微服务架构(Microservices oriented)
 - 应用支持容器的编排调度(Dynamically Orchestrated)
 
+云原生包含了一组应用的模式，用于帮助企业快速，持续，可靠，规模化地交付业务软件。云原生由微服务架构，DevOps 和以容器为代表的敏捷基础架构组成。援引宋净超同学的一张图片来描述云原生所需要的能力与特征：
+
+![](images/cloud-native-definition-cncf-original.png)
+
 在2018年，随着社区对云原生理念的广泛认可和云原生生态的不断扩大，还有CNCF项目和会员的大量增加，起初的定义已经不再适用，因此CNCF对云原生进行了重新定位。
 
 2018年6月，CNCF正式对外公布了更新之后的云原生的定义（包含中文版本）v1.0版本：
@@ -54,6 +58,8 @@ Pivotal 是Cloud Native/云原生应用的提出者，并推出了Pivotal Cloud 
 > The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
 >
 > 云原生计算基金会（CNCF）致力于培育和维护一个厂商中立的开源生态系统，来推广云原生技术。我们通过将最前沿的模式民主化，让这些创新为大众所用。
+
+新的定义中，继续保持原有的核心内容：容器和微服务，但是非常特别的将服务网格单独列出来，而不是将服务网格作为微服务的一个子项或者实现模式，体现了云原生中服务网格这一个新生技术的重要性。而不可变基础设施和声明式API这两个设计指导理念的加入，则强调了这两个概念对云原生架构的影响和对未来发展的指导作用。
 
 可以通过访问 https://github.com/cncf/toc/blob/master/DEFINITION.md 查看。
 
