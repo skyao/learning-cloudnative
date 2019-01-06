@@ -71,6 +71,8 @@ description : "云计算二十来年来的演进历史"
 
 ![](images/xaas.png)
 
+在这过去的二十年间，云计算几乎重新定义了整个行业的格局，越来越多的企业开始降低对IT基础设施的直接资本投入，不再倾向于维护自建的数据中心，而是开始通过上云的方式来获取更强大的计算、存储能力，并实现按时按需付费。这不仅仅降低IT支出，同时也降低了整个行业的技术壁垒，使得更多的公司尤其是初创公司可以更快地实践业务想法并迅速推送到市场。
+
 ### 参考资料
 
 - CNCF的介绍资料 [Cloud Native and Container Technology Landscape](https://events.static.linuxfound.org/sites/events/files/slides/(OSF_Mr.%20Chris%20Aniszczyk)CNCF%20(OS%20Forum%20Japan%202016).pdf)

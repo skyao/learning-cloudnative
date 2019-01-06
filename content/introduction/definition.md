@@ -10,6 +10,12 @@ description : "云原生的定义与文化"
 
 ## 云原生定义
 
+云原生是一种专门针对云上应用而设计的方法，用于构建和部署应用，以充分发挥云计算的优势。这些应用的特点是可以实现快速和频繁的构建、发布、部署，结合云计算的特点实现和底层硬件和操作系统解耦，可以方便的满足在扩展性，可用性，可移植性等方面的要求，并提供更好的经济性。同时通过拆解为多个小型功能团队来让组织更敏捷，让人员、流程和工具更好的结合，在开发、测试、运维之间进行更密切的协作。
+
+但是当需要回答“什么是云原生”这个问题时，还是会有些困难：在过去几年间，云原生的定义一直在变化和发展演进，不同时期不同的公司对此的理解和诠释也不尽相同，因此往往会带来一些疑惑和误解。
+
+我们一起来看看云原生定义在不同时期的变化。
+
 ### Pivotal的定义
 
 Pivotal 是Cloud Native/云原生应用的提出者，并推出了Pivotal Cloud Foundry和Spring系列开发框架，是云原生的先驱者和探路者。
@@ -30,6 +36,15 @@ Pivotal 是Cloud Native/云原生应用的提出者，并推出了Pivotal Cloud 
 - 可测试性(Testability)
 - 可处理性(Disposability)
 - 可替换性(Replaceability)
+
+而在Pivotal最新的官方网站 https://pivotal.io/cloud-native 上，对cloud native的介绍则是关注如下图所示的四个要点：
+
+<img src="images/pivotal-cloud-native.png" width="60%" />
+
+- DevOps
+- Continuous Delivery
+- Microservices
+- Containers
 
 ### CNCF的定义
 

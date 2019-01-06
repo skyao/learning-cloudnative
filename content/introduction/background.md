@@ -39,7 +39,7 @@ Mark Andreessen是风险投资公司Andreessen-Horowitz的联合创始人和合�
 
 >  补充：有兴趣的同学可以看一下这个文章： [A Review of ‘Why Software is Eating The World’: How have the companies fared?](https://www.bigfootcap.com/a-review-of-why-software-is-eating-the-world-how-have-the-companies-fared/): 这是在2018年，有人撰文分析了在上文中提到的几家主要软件公司的发展情况：Facebook/Apple/Amazon/Netflix/Google。
 
-## 移动互联网
+## 移动互联网在加剧变化
 
 在“Software is Eating The World”一文中，作者展望互联网规模时，写道：
 
@@ -77,7 +77,8 @@ Pivotal公司的Matt Stine对此描述如下：
 >
 > 我们正努力平衡感知到的冲突：软件驱动的业务敏捷性 vs. 软件系统的弹性。我们希望快速前行而不破坏事物。为了做到这一点，我们将改变我们构建软件的方式，而不是在哪里构建软件。
 
-## 软件上云的趋势
+
+## 软件上云大势所趋
 
 将软件迁移到云上是应对这一挑战的自然演化方式，在过去二十年，从物理机到虚拟机到容器，从IaaS诞生到PaaS、CaaS、SaaS、FaaS一路演进，应用的构建和部署变的越来越轻、越来越快，而底层基础设施和平台则越来越强大，以不同形态的云对上层应用提供强力支撑。
 
@@ -90,6 +91,7 @@ Pivotal公司的Matt Stine对此描述如下：
 2006年AWS通过提供EC2服务开创了IaaS市场。通过按时计费的方式租借服务器，客户不承担资本支出，仅在使用服务时付费。将资本支出（Capex）转变为运营支出（Opex），这是云计算时代的真正开始，而之后PaaS，SaaS等的演进只是超云这个方向一步一步继续前行：
 
 ![](images/iaas-paas-saas-comparison.jpg)
+
 
 ## 总结
 

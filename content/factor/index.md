@@ -65,3 +65,16 @@ Heroku（HeroKu于2009年推出公有云PaaS）于2012年提出12因素，告诉
 
 
 ![](images/cloud-native-12-factor.png)
+
+
+
+
+
+12因素在云原生架构中的体现：
+
+![](images/diagram-cloud-native-arch-01.svg)
+
+
+
+
+

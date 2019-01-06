@@ -84,6 +84,13 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 300
 
 [[menu.main]]
+	name   = "持续交付"
+	identifier = "devops-cd"
+	parent = "devops"
+	url    = "/devops/cd/"
+	weight = 350
+
+[[menu.main]]
 	name   = "持续发布"
 	identifier = "cd"
 	url    = "/cd/"
