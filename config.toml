@@ -65,10 +65,17 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 100
 
 [[menu.main]]
-	name   = "云原生的理念"
-	identifier = "introduction-idea"
+	name   = "云原生的飞轮效应"
+	identifier = "introduction-flywheel"
 	parent = "introduction"
-	url    = "/introduction/idea/"
+	url    = "/introduction/flywheel/"
+	weight = 110
+
+[[menu.main]]
+	name   = "云原生的特征"
+	identifier = "introduction-characteristic"
+	parent = "introduction"
+	url    = "/introduction/characteristic/"
 	weight = 120
 
 [[menu.main]]

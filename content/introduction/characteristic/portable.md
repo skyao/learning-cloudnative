@@ -1,12 +1,16 @@
 ---
 date: 2019-01-03T10:00:00+08:00
-title: 不锁定(No Lock-in)
+title: 可移植性(Portable)
 menu:
   main:
-    parent: "introduction-idea"
+    parent: "introduction-characteristic"
 weight: 130
-description : "云原生的理念之不锁定(No Lock-in)"
+description : "云原生的特征之可移植性(Portable)"
 ---
+
+
+
+可移植性(Portable)   No Lock In
 
 开源软件堆栈支持在任何公有云或私有云（或两者组合的混合云）上部署，避免Cloud绑定（供应商绑定）。
 
