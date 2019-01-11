@@ -36,7 +36,7 @@ description : "云原生特征之隔离性"
 
 后来通过在服务器软件（比如说在web应用服务器如Apache、IIS）之上，提供虚拟主机服务，容许用户运行静态网站、或者PHP、ASP等脚本语言，一定程度上实现了有限的隔离性。
 
-![](../flywheel/images/flywheel-case-virtual.png)
+![](images/virtual-flywheel.png)
 
 虚拟机技术出现之后，基于虚拟机技术（尤其是成熟后的Xen、KVM等）的 VPS 可以提供更多的功能，带来更好的客户体验，更充分的利用物理机器的资源。之后基于虚拟机技术的云计算模式一路发展，IasS/PaaS/SaaS/FaaS 相继出现并成熟。
 

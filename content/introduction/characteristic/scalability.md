@@ -74,3 +74,7 @@ Within this area, the typical concerns need to be accommodated –
 通过使用微服务，云原生应用程序可以独立自动扩展服务。这在大多数情况下会自动发生，因此不需要每天管理它们。
 
 
+
+参考资料
+
+- [从容器到云原生 – 极致弹性](https://yq.aliyun.com/articles/679125)
