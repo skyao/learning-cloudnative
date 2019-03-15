@@ -104,7 +104,7 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 400
 
 [[menu.main]]
-	name   = "声明式设计"
+	name   = "声明式API"
 	identifier = "declarative"
 	url    = "/declarative/"
 	weight = 500
