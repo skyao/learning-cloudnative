@@ -136,5 +136,6 @@ description : "云计算的演进历史"
 - [What is XaaS? IaaS vs SaaS vs PaaS: what’s the difference](https://www.ispsystem.com/news/xaas)：对XaaS的概括介绍
 - [漫画趣味图解云计算的起源](https://cloud.tencent.com/developer/article/1149422)
 - [云计算的前世今生——云计算发展大事件](https://zhuanlan.zhihu.com/p/33608591): 梳理得较为全面的云计算大事记文章，值得收藏和分享
+- [坐看云起时，谈笑无还期](https://insights.thoughtworks.cn/cloud-computing/)
 
 
