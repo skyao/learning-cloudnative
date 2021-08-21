@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 自动化(Automation)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 127
 description : "云原生的特征之自动化性(Automation)"
 ---

@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 配置
-menu:
-  main:
-    parent: "factor"
 weight: 203
 description : "云原生12 factor之配置(Config)"
 ---

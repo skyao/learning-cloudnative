@@ -1,8 +1,10 @@
 ---
-date: 2019-01-03T10:00:00+08:00
-title: "云原生的飞轮效应"
-weight: 105
-description : "云原生的飞轮效应"
+title: "云原生的飞轮效应概述"
+linkTitle: "飞轮效应概述"
+weight: 106
+date: 2021-01-18
+description: >
+  云原生的飞轮效应概述
 ---
 
 ### 在云原生之前
@@ -52,7 +54,6 @@ description : "云原生的飞轮效应"
 最终，在云原生时代，以客户体验为中心，形成功能性和易用性两个闭环：
 
 ![](images/flywheel-8.png)
-
 
 
 

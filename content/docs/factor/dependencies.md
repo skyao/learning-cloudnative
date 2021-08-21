@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 依赖
-menu:
-  main:
-    parent: "factor"
 weight: 202
 description : "云原生12 factor之依赖(Dependencies)"
 ---

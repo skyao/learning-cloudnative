@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 可替换性(Replaceability)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 127
 description : "云原生的特征之可替换性(Replaceability)"
 ---
@@ -58,7 +55,6 @@ TBD
 - [PETS VS. CATTLE](https://www.engineyard.com/blog/pets-vs-cattle): By Noah Slater
 - [CERN Data Centre Evolution](https://www.slideshare.net/gmccance/cern-data-centre-evolution): PPT 第17页
 - [DevOps Concepts: Pets vs Cattle](https://medium.com/@Joachim8675309/devops-concepts-pets-vs-cattle-2380b5aab313)
-
 
 
 

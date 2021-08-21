@@ -1,10 +1,11 @@
 ---
-date: 2019-01-04T18:00:00+08:00
-title: DevOps
-weight: 300
-description : "云原生中的DevOps"
+title: "DevOps概述"
+linkTitle: "DevOps概述"
+weight: 501
+date: 2021-01-18
+description: >
+  云原生中的DevOps概述
 ---
-
 
 
 DevOps

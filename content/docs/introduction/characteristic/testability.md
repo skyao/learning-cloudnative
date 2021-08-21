@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 可测试性(Testability)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 129
 description : "云原生的特征之可测试性(Testability)"
 ---
@@ -31,7 +28,6 @@ CI的目标是每次添加或修改源代码时，构建过程开始，测试立
 ### 和其他的关系
 
 - 自动化
-
 
 
 

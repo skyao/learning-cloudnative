@@ -1,8 +1,10 @@
 ---
-date: 2019-01-04T18:00:00+08:00
-title: 持续交付
-weight: 350
-description : "云原生中的DevOps之持续交付"
+title: "持续交付概述"
+linkTitle: "持续交付概述"
+weight: 351
+date: 2021-01-18
+description: >
+  持续交付概述
 ---
 
 

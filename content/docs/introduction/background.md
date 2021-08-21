@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 云原生出现的背景
-menu:
-  main:
-    parent: "introduction"
 weight: 102
 description : "云原生出现的背景"
 ---

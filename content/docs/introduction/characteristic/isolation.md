@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 隔离性(Isolation)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 121
 description : "云原生特征之隔离性"
 ---
@@ -76,5 +73,4 @@ description : "云原生特征之隔离性"
 - 灰度发布：先小范围试错，验证OK再全面上线
 - Zone Isolation：区域隔离，以应对基础设施失败，如电力故障
 - Region Isolation：地域隔离，通过DNS等技术手段切换Region
-
 

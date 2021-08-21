@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 可移植性(Portable)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 130
 description : "云原生的特征之可移植性(Portable)"
 ---
@@ -21,7 +18,6 @@ description : "云原生的特征之可移植性(Portable)"
 - Cloud is eating Open Source
 
 如果没有通用开源软件，我们将冒着Cloud绑定的风险。
-
 
 
 

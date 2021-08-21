@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 云原生的定义
-menu:
-  main:
-    parent: "introduction"
 weight: 103
 description : "云原生的定义与文化"
 ---
@@ -111,7 +108,6 @@ Christian Posta 指出：
 - [Defining Cloud Native: A Panel Discussion](https://www.infoq.com/articles/cloud-native-panel): Infoq对**Christian Posta**、**Kevin Hoffman**、**Matt Stine**的访谈录。
 - [Cloud Native Part 1: Definition](https://blog.heptio.com/cloud-native-part-1-definition-716ed30e9193)：Joe Beda，Heptio CTO的连载 
 - [CNCF Cloud Native Definition v1.0](https://github.com/cncf/toc/blob/master/DEFINITION.md): CNCF的官方定义
-
 
 
 

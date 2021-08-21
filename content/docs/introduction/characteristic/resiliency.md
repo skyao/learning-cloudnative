@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 弹性(Resiliency)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 126
 description : "云原生的特征之弹性(Resiliency)"
 ---
@@ -37,7 +34,6 @@ Legacy applications that were not designed for a cloud can use tools within a hy
 不是为云设计的传统应用程序可以使用虚拟机管理程序或云基础架构中的工具，例如流量负载平衡，群集和服务器/ VM故障转移，但这些应用程序对于最终用户而言并不像云原生应用程序那样有效和透明。弹性。弹性和云原生应用程序设计优势还有许多其他方面，本章稍后将对此进行介绍。
 
  
-
 
 
 

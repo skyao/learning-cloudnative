@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: "云计算的历史"
-menu:
-  main:
-    parent: "introduction"
 weight: 101
 description : "云计算的演进历史"
 ---
@@ -137,5 +134,4 @@ description : "云计算的演进历史"
 - [漫画趣味图解云计算的起源](https://cloud.tencent.com/developer/article/1149422)
 - [云计算的前世今生——云计算发展大事件](https://zhuanlan.zhihu.com/p/33608591): 梳理得较为全面的云计算大事记文章，值得收藏和分享
 - [坐看云起时，谈笑无还期](https://insights.thoughtworks.cn/cloud-computing/)
-
 

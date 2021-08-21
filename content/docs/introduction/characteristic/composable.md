@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 可组合(Composable)
-menu:
-  main:
-    parent: "introduction-characteristic"
 weight: 122
 description : "云原生的特征之可组合(Composable)"
 ---

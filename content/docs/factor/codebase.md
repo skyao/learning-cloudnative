@@ -1,9 +1,6 @@
 ---
 date: 2019-01-03T10:00:00+08:00
 title: 基准代码
-menu:
-  main:
-    parent: "factor"
 weight: 201
 description : "云原生12 factor之基准代码(Codebase)"
 ---
